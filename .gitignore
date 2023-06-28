@@ -1,0 +1,4 @@
+requests-examples.http
+Pipfile
+Pipfile.lock
+__pycache__
