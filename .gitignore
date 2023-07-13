@@ -2,3 +2,4 @@ requests-examples.http
 Pipfile
 Pipfile.lock
 __pycache__
+.pytest_cache
